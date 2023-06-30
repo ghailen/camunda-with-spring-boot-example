@@ -38,10 +38,13 @@ the port
 
 use can also add more user in the config
 
-
-The project structure: 
-
 ![image](https://github.com/ghailen/camunda-with-spring-boot-example/assets/36199753/1ab9fb86-e6de-485e-9725-b95452cf83b8)
+
+=================The project structure====================
+
+![image](https://github.com/ghailen/camunda-with-spring-boot-example/assets/36199753/6ab87680-bfe7-4740-b64e-0d3750dc5d30)
+
+
 
 ==========Run the application and server==============
 
@@ -57,8 +60,6 @@ the server is up on port 8080:
 ![image](https://github.com/ghailen/camunda-with-spring-boot-example/assets/36199753/d8c3acaa-31ba-43b4-886f-6b07d9deb9fa)
 
 
-
-![image](https://github.com/ghailen/camunda-with-spring-boot-example/assets/36199753/6ab87680-bfe7-4740-b64e-0d3750dc5d30)
 
 Now we can run our process : 
 
