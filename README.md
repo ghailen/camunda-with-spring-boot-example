@@ -60,3 +60,16 @@ the server is up on port 8080:
 
 ![image](https://github.com/ghailen/camunda-with-spring-boot-example/assets/36199753/6ab87680-bfe7-4740-b64e-0d3750dc5d30)
 
+Now we can run our process : 
+
+![image](https://github.com/ghailen/camunda-with-spring-boot-example/assets/36199753/7cd9cad9-f496-4c58-ae6c-d85c567c80d5)
+
+we can see the service task of log will print the log into our spring boot application console:
+
+![image](https://github.com/ghailen/camunda-with-spring-boot-example/assets/36199753/c02586f0-b2e5-438a-a0f8-af45baa1fc02)
+
+
+![image](https://github.com/ghailen/camunda-with-spring-boot-example/assets/36199753/fe49c0f3-b553-4dfe-aed9-f7d902f4a61e)
+
+
+
