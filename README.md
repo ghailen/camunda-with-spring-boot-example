@@ -17,3 +17,10 @@ Repository: https://artifacts.camunda.com/artifactory/camunda-bpm/
 
 CamundaApplication class => is the entry point of the application
 @EnableProcessApplication => is responsible of bootstrap the camunda
+
+
+The default bpmn file existing : 
+
+![image](https://github.com/ghailen/camunda-with-spring-boot-example/assets/36199753/8119c0b5-682f-4abf-bdba-6152a64397af)
+
+
