@@ -69,6 +69,7 @@ we can see the service task of log will print the log into our spring boot appli
 
 ![image](https://github.com/ghailen/camunda-with-spring-boot-example/assets/36199753/c02586f0-b2e5-438a-a0f8-af45baa1fc02)
 
+in the application console:
 
 ![image](https://github.com/ghailen/camunda-with-spring-boot-example/assets/36199753/fe49c0f3-b553-4dfe-aed9-f7d902f4a61e)
 
