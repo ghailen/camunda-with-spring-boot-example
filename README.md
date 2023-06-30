@@ -15,4 +15,5 @@ Repository: https://artifacts.camunda.com/artifactory/camunda-bpm/
 
 ![image](https://github.com/ghailen/camunda-with-spring-boot-example/assets/36199753/28906e4b-ef2a-466b-8521-b0094ccd1b58)
 
+CamundaApplication class => is the entry point of the application
 @EnableProcessApplication => is responsible of bootstrap the camunda
