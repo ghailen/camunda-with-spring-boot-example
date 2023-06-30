@@ -24,3 +24,24 @@ The default bpmn file existing :
 ![image](https://github.com/ghailen/camunda-with-spring-boot-example/assets/36199753/8119c0b5-682f-4abf-bdba-6152a64397af)
 
 
+=============application.yaml=================
+
+contains different properties about the application :
+
+the used database is h2 in memory database
+
+the user name
+
+the password 
+
+the port
+
+use can also add more user in the config
+
+
+![image](https://github.com/ghailen/camunda-with-spring-boot-example/assets/36199753/1ab9fb86-e6de-485e-9725-b95452cf83b8)
+
+The project structure: 
+
+![image](https://github.com/ghailen/camunda-with-spring-boot-example/assets/36199753/6ab87680-bfe7-4740-b64e-0d3750dc5d30)
+
