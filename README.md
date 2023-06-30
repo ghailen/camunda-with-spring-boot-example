@@ -60,6 +60,7 @@ the server is up on port 8080:
 ![image](https://github.com/ghailen/camunda-with-spring-boot-example/assets/36199753/d8c3acaa-31ba-43b4-886f-6b07d9deb9fa)
 
 
+open localhost:8080 to enter to the camunda webapp:
 
 Now we can run our process : 
 
